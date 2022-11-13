@@ -1,0 +1,80 @@
+
+# p: pronunciation 发音
+# b: british english pronunciation 英式发音
+# a: american english pronunciation 美式发音
+# c: concise 简明
+
+# Bevy Minesweeper Introduction:
+minesweeper:
+  p:
+    b: ˈmaɪnswiːpə(r)
+    a: ˈmaɪnswiːpər
+  c:
+    n: 扫雷舰；[军][船] 扫雷艇
+disclaimer:
+  p:
+    b: dɪsˈkleɪmə(r)
+    a: dɪsˈkleɪmər
+  c:
+    n: 不承诺，免责声明；放弃，拒绝
+decent:
+  p:
+    b: ˈdiːs(ə)nt
+    a: ˈdiːs(ə)nt
+  c:
+    adj: 像样的，尚好的；得体的，合宜的；<非正式>穿好衣服的；正派的，规矩的；待人宽厚的，和善的
+obsolete:
+  p:
+    b: ˈɒbsəliːt
+    a: ˌɑːbsəˈliːt
+  c:
+    adj: 淘汰的，废弃的；（生物特征的一部分）退化的
+    vt: <美>淘汰（产品），废弃（想法）
+compromise:
+  p:
+    b: ˈkɒmprəmaɪz
+    a: ˈkɑːmprəmaɪz
+  c:
+    n: 折中，妥协；妥协方案，折中办法
+    v: 妥协，让步；危及，损害
+incarnation:
+  p:
+    b: ˌɪnkɑːˈneɪʃn
+    a: ˌɪnkɑːrˈneɪʃn
+  c:
+    n: 化身；道成肉身；典型
+compound:
+  p:
+    b: ˈkɒmpaʊnd
+    a: ˈkɑːmpaʊnd
+  c:
+    n: 混合物，化合物；复合词；大院，有围墙的场地
+    adj: 复合的，混合的；以复利计算的
+    v: 使加重，使恶化；合成，混合；以复利计算支付；和解，私了
+graphic:
+  p:
+    b: ˈɡræfɪk
+    a: ˈɡræfɪk
+  c:
+    adj: 详细的，生动的；绘画的；图形的，图示的；（岩石表面纹理）文象的；（与）可视图像（有关）的；（与）视觉艺术（有关）的
+    n: 图表，图形；绘画，图形设计
+orthographic:
+  p:
+    b: ˌɔːθəˈɡræfɪk
+    a: ˌɔːrθəˈɡræfɪk
+  c:
+    adj: 正字法的；拼字正确的；直角的
+saturate:
+  p:
+    b: ˈsætʃəreɪt
+    a: ˈsætʃərɪt
+  c:
+    vt: 浸透，使湿透；使饱和，使充满
+    adj: 浸透的，饱和的；深颜色的
+circumstance:
+  p:
+    b: ˈsɜːkəmstəns
+    a: ˈsɜːrkəmstæns
+  c:
+    n: 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇
+    v: 处于某种情况
